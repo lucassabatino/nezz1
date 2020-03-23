@@ -3,7 +3,7 @@ module.exports = {
   ENVIRONMENT: process.env.NODE_ENV,
   GOOGLE_CREDENTIAL:
     process.env.GOOGLE_CREDENTIAL
-    || "529023224442-uc59r7lmmfbghgsio06sbkv6rnnaibae.apps.googleusercontent.com",
+    || "927809977823-3mlpvklkd1nffoo82iltvhd2lfhgj12q.apps.googleusercontent.com",
   ENFORCE_SSL: process.env.ENFORCE_SSL || "false",
   CUSTOM_STYLE: process.env.CUSTOM_STYLE || "",
   HOST: "0.0.0.0",
